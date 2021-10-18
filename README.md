@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singh98035
 - 👀 I’m interested in MUSIC
 - 🌱 I’m currently learning MEAN Stack
-- 💞️ I’m looking to collaborate on Gurlivleen Singh Kainth
+- 💞️ I’m looking to collaborate with Gurlivleen Singh Kainth
 - 📫 How to reach me ...
 
 <!---
