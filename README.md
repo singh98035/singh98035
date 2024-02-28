@@ -1,5 +1,5 @@
 - 👋 Hi, I am Manjot Singh
-- 👀 Having 2 year experience in Full Stack Engineer
+- 👀 Having 2 year experience in Full Stack Development
 - 🌱 Currently Working as Associate Software Engineer at Technossus
 - 📫 Please feel free to reach out to me on LinkedIn
 
